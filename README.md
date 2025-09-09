@@ -1,4 +1,4 @@
-# 🏠 Smart Home Automation with Google Assistant & Alexa  
+# 🏠 Smart Home Automation with Google Assistant, IR Remote, Alexa, SinricPro Website & Mannual
 Using NodeMCU ESP8266, Arduino UNO & Sinric Pro
 
 ---
