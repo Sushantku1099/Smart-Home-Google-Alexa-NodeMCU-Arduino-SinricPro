@@ -56,7 +56,7 @@ This switch toggles power between NodeMCU and Arduino UNO to select control mode
 - Use 5V 2A power supply  
 ⚠️ Ensure manual switches S1 & S2 are OFF during NodeMCU boot to prevent boot failure.  
 
-*![Circuit Diagram Placeholder](./images/circuit_diagram.png)*  
+*![Circuit Diagram Placeholder](.Circuit_Diagram.png)*  
 
 ---
 
